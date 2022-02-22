@@ -4,7 +4,6 @@
 #Roman Youtube Downloader
 
 import tkinter as tk
-import cv2
 from tkinter import filedialog
 from pytube import YouTube
 
